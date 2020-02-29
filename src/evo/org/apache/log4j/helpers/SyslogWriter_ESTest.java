@@ -28,7 +28,7 @@ public class SyslogWriter_ESTest extends SyslogWriter_ESTest_scaffolding {
     *     os valores escritos através de um função são iguais aos esperados.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são parcialmente compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test00() throws Throwable {
@@ -46,7 +46,7 @@ public class SyslogWriter_ESTest extends SyslogWriter_ESTest_scaffolding {
     *     um teste que apenas instancia uma classe.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são parcialmente compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test01() throws Throwable {
@@ -61,7 +61,7 @@ public class SyslogWriter_ESTest extends SyslogWriter_ESTest_scaffolding {
     *     o método write() com parâmetros inválidos lança uma SocketException.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são parcialmente compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test02() throws Throwable {
@@ -88,7 +88,7 @@ public class SyslogWriter_ESTest extends SyslogWriter_ESTest_scaffolding {
     *     o método write() com parâmetros inválidos lança uma StringIndexOutOfBoundsException.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são parcialmente compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test03() throws Throwable {
@@ -111,7 +111,7 @@ public class SyslogWriter_ESTest extends SyslogWriter_ESTest_scaffolding {
     *     o método write() com parâmetros inválidos lança uma NullPointerException.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são parcialmente compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test04() throws Throwable {
@@ -136,7 +136,7 @@ public class SyslogWriter_ESTest extends SyslogWriter_ESTest_scaffolding {
     *     um teste que escreve uma string curta.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são parcialmente compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test05() throws Throwable {
@@ -152,7 +152,7 @@ public class SyslogWriter_ESTest extends SyslogWriter_ESTest_scaffolding {
     *     o método write() com parâmetros inválidos lança uma SocketException.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são parcialmente compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test06() throws Throwable {
@@ -178,7 +178,7 @@ public class SyslogWriter_ESTest extends SyslogWriter_ESTest_scaffolding {
     *     um teste que escreve uma string curta.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são parcialmente compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test07() throws Throwable {
@@ -194,7 +194,7 @@ public class SyslogWriter_ESTest extends SyslogWriter_ESTest_scaffolding {
     *     o método write() com parâmetros inválidos lança uma NullPointerException.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são parcialmente compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test08() throws Throwable {
@@ -220,7 +220,7 @@ public class SyslogWriter_ESTest extends SyslogWriter_ESTest_scaffolding {
     *     um teste que escreve uma string curta.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são parcialmente compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test09() throws Throwable {
@@ -235,7 +235,7 @@ public class SyslogWriter_ESTest extends SyslogWriter_ESTest_scaffolding {
     *     o construtor de SyslogWriter com parâmetros inválidos lança uma NullPointerException.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são parcialmente compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test10() throws Throwable {
@@ -260,7 +260,7 @@ public class SyslogWriter_ESTest extends SyslogWriter_ESTest_scaffolding {
     *     um teste que apenas dá um flush.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são parcialmente compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test11() throws Throwable {

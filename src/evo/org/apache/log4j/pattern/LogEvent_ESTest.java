@@ -77,7 +77,7 @@ public class LogEvent_ESTest extends LogEvent_ESTest_scaffolding {
     *
     * Plausível: sim
     *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
-    *     LogEvent possui os valores iniciais iguais aos esperados. Por
+    *     LogEvent possui os valores iniciais iguais aos esperados.
     *
     * Compreensivel: sim
     *     - O comportamento do teste e suas instruções são parcialmente compreesíveis.
